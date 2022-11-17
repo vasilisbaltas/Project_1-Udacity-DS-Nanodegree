@@ -17,11 +17,12 @@ The following libraries are also required:
 - matplotlib
 - seaborn
 - scikit-learn
+- scipy
 
 
 ## File Description
 
-The Airbnb_Boston.ipynb file containes the code for this analysis, the listings_Boston.csv and calendar_Boston.csv are the datasets
+The Airbnb_Boston.ipynb file contains the code for this analysis, the listings_Boston.csv and calendar_Boston.csv are the datasets
 used which were downloaded from Kaggle. The .ipynb_checkpoints folder contains just the jupyter notebook checkpoints.
 
 
