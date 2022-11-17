@@ -29,3 +29,10 @@ used which were downloaded from Kaggle. The .ipynb_checkpoints folder contains j
 ## Results
 
 The results and key takeaways of the analysis are given in the following [Medium blogpost](https://medium.com/@vabaltas/how-to-find-the-best-airbnb-price-in-boston-e36014f32959).
+
+
+## Acknowledgements
+
+Acknowledgements should be given to Soledad Galli and Christopher Samiullah for their course in [Udemy](https://www.udemy.com/course/deployment-of-machine-learning-models/) which is really insightful 
+on data exploration and feature engineering. Additionally, acknowledgements should go to Shriyutha on [Kaggle](https://www.kaggle.com/code/shriyutha/boston-airbnb-data-analysis-n-price-prediction) who has
+also worked on the case study and provided nice ideas on exploring the relationships between price and independent features.
