@@ -28,4 +28,4 @@ used which were downloaded from Kaggle. The .ipynb_checkpoints folder contains j
 
 ## Results
 
-The results and key takeaways of the analysis are given in the following Medium blogpost   !!!!!!!!!!!!!!!!!!!!!
+The results and key takeaways of the analysis are given in the following [Medium blogpost](https://medium.com/@vabaltas/how-to-find-the-best-airbnb-price-in-boston-e36014f32959).
